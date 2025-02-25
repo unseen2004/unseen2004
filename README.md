@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?weight=700&size=25&duration=3000&pause=100&color=5BD4F7&lines=Unseen;Algorithmic+CS+student;C%2B%2B+enjoyer;I+use+arch+btw." alt="Unseen" />
+  </a>
+</h1>
 
 <!--
 **unseen2004/unseen2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
