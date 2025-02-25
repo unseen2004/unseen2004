@@ -1,3 +1,5 @@
+<img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%">
+
 <h1 style="text-align: center;">
   <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.demolab.com/?weight=700&size=25&duration=3000&pause=100&color=5BD4F7&lines=Unseen;Algorithmic+CS+student;C%2B%2B+enjoyer;I+use+arch+btw." alt="Unseen" />
