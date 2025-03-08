@@ -11,7 +11,7 @@
 </h1>
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%">
 <p>
-  I'm a student of Algorithmic Computer Science at Wrocław University of Science and Technology. I primarily use C++ and Java, with a strong interest in game programming. Currently, I'm focusing on GPU programming, GCP, Haskell, ML, and contributing to open-source projects.
+  I'm a student of Algorithmic Computer Science at Wrocław University of Science and Technology. I primarily use C++ and Java. Currently, I'm focusing on GPU programming, GCP, Haskell, concurrent programming in Go, ML, and contributing to open-source projects.
 </p>
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%">
 
