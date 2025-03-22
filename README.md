@@ -15,6 +15,13 @@
 </p>
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%">
 
+### 📅 Half-Year Calendar
+![Half-year calendar](https://github.com/unseen2004/unseen2004/blob/main/metrics.plugin.isocalendar.svg)
+
+### 🎥 Favorites Anime & Currently Watching
+![AniList](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/metrics.plugin.anilist.svg)
+
+
 
 <!--
 **unseen2004/unseen2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
