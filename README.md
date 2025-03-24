@@ -16,15 +16,28 @@
 </p>
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%">
 
-Table of Contents
-- 🎓 [**Programs for Studies**](https://github.com/unseen2004/Studies)
-- 🎮 [**2D Game Raylib**](https://github.com/unseen2004/EndlessRunner)
-- 🌐 [**API TS**](https://github.com/unseen2004/cocktails-api)
-- ⚙️ [**C++ Algorithms Lib**](https://github.com/unseen2004/AlgoLib)
-- 🔀 [**Random Code**](https://github.com/unseen2004/RandomThings)
-- ♟️ [**Java Game**](https://github.com/unseen2004/chineseCheckers)
-- 🇯🇵 [**Japanese Python**](https://github.com/unseen2004/Python_jp)
-- 📱 [**Simple Mobile App**](https://github.com/unseen2004/GlucoApp)
+## Table of Contents
+
+<div style="display: flex; align-items: center;">
+
+<div style="flex: 1;">
+<ul>
+  <li>🎓 <a href="https://github.com/unseen2004/Studies"><strong>Programs for Studies</strong></a></li>
+  <li>🎮 <a href="https://github.com/unseen2004/EndlessRunner"><strong>2D Game Raylib</strong></a></li>
+  <li>🌐 <a href="https://github.com/unseen2004/cocktails-api"><strong>API TS</strong></a></li>
+  <li>⚙️ <a href="https://github.com/unseen2004/AlgoLib"><strong>C++ Algorithms Lib</strong></a></li>
+  <li>🔀 <a href="https://github.com/unseen2004/RandomThings"><strong>Random Code</strong></a></li>
+  <li>♟️ <a href="https://github.com/unseen2004/chineseCheckers"><strong>Java Game</strong></a></li>
+  <li>🇯🇵 <a href="https://github.com/unseen2004/Python_jp"><strong>Japanese Python</strong></a></li>
+  <li>📱 <a href="https://github.com/unseen2004/GlucoApp"><strong>Simple Mobile App</strong></a></li>
+</ul>
+</div>
+
+<div style="flex: 1; text-align: right;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Y1MWVrbGVrMXZrYjBtYnVpZjF5M3A0dDQzeXFnY3V4ZWNhMm8wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QiFoJRaLiMGYg/giphy.gif" alt="Your GIF" width="250">
+</div>
+
+</div>
 <!--- 🔫 [**2D Slug Metal Game**](https://github.com/unseen2004/Slug-Metal) -->
 <!-- Social Links -->
 <div align="center">
