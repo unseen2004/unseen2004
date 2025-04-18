@@ -71,7 +71,8 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unseen2004&theme=nightowl&hide_border=false&langs_count=10&hide=jupyter%20notebook"/>
+      <!--<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unseen2004&theme=nightowl&hide_border=false&langs_count=10&hide=jupyter%20notebook"/>-->
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=unseen2004&theme=nightowl&hide_border=false&langs_count=10&hide=jupyter%20notebook,css,html"/>
     </td>
     <td align="center">
       <img src="https://github.com/unseen2004/unseen2004/blob/main/metrics.plugin.isocalendar.svg" width="100%"/>
