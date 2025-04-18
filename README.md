@@ -56,7 +56,7 @@
 
 </div>
 
-###### Languages & Syntax:
+###### Languages:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -64,41 +64,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
-<img align="right" width=310px alt="Unicorn" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQ0anZvNXlxbDN5cXdqZGg2NDhxb2Y4MTI3ZmQ0aW84Y203MTN5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wD0ecvxjcc84E/giphy.gif"/>
 
-
-###### Backend & Frameworks:
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; *(Beginner)*
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp; *(Beginner)*
-
-###### Frontend Development:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp; *(Beginner)*
-
-###### Deployment & Cloud Services:
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp; *(Beginner)*
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp; *(Beginner)*  
-
-###### Machine Learning:
-![ML](https://img.shields.io/badge/Machine%20Learning-%23F7931E.svg?style=for-the-badge&logo=machinelearning&logoColor=white)&nbsp;
-
-###### Database Management:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; *(Beginner)*
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-
-###### Development Tools:
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Neovim](https://img.shields.io/badge/Neovim-%2311AB00.svg?style=for-the-badge&logo=neovim&logoColor=white)&nbsp;
-
-###### Operating Systems:
-![Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)&nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
-
-###### Development Environments:
-![JetBrains IDEA](https://img.shields.io/badge/JetBrains%20IDEA-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white)&nbsp;
 
 
 
