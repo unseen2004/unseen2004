@@ -11,8 +11,8 @@
 </h1>
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%">
 <p>
-  I'm in my second year of college(algorithmic CS), focusing on enhancing my skills in programming and engineering.<br>I'm eager to learn new things.<br>Aside from coding, I'm into Japanese culture and a healthy lifestyle.<br>
-  Mainly code in C++ & Java. Into GameDev, exploring some backend, FP (JS/TS), concurrent Go, ML, AWS.<br>Open-source vibes, sneaking into .NET (C#).
+  I'm in my second year of college(algorithmic computer science), focusing on enhancing my skills in programming and engineering.<br>I'm eager to learn new things.<br>
+  Mainly code in C++ & Java. Starting journey in cybersecurity. Aside from that interested in concurrent Go, ML, AWS.<br>Open-source vibes, sneaking into GameDev.
 </p>
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%">
 
@@ -22,14 +22,17 @@
 
 <div style="flex: 1;">
 <ul>
-  <li>🎓 <a href="https://github.com/unseen2004/Studies"><strong>Programs for Studies</strong></a></li>
   <li>🎮 <a href="https://github.com/unseen2004/EndlessRunner"><strong>2D Game Raylib</strong></a></li>
   <li>🌐 <a href="https://github.com/unseen2004/cocktails-api"><strong>API TS</strong></a></li>
   <li>⚙️ <a href="https://github.com/unseen2004/AlgoLib"><strong>C++ Algorithms Lib</strong></a></li>
-  <li>🔀 <a href="https://github.com/unseen2004/RandomThings"><strong>Random Code</strong></a></li>
+  <li>🔀 <a href="https://github.com/unseen2004/RandomThings"><strong>Random Stuff</strong></a></li>
   <li>♟️ <a href="https://github.com/unseen2004/chineseCheckers"><strong>Java Game</strong></a></li>
   <li>🇯🇵 <a href="https://github.com/unseen2004/Python_jp"><strong>Japanese Python</strong></a></li>
   <li>📱 <a href="https://github.com/unseen2004/GlucoApp"><strong>Simple Mobile App</strong></a></li>
+
+  
+  <li>📱 <a href="https://github.com/unseen2004/ML"><strong>Machine Learning</strong></a></li>
+  <li>📱 <a href="https://github.com/unseen2004/CyberSecurity"><strong>Cyber Security</strong></a></li>
 </ul>
 </div>
 
