@@ -11,8 +11,9 @@
 </h1>
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%">
 <p>
-  I'm in my second year of college(algorithmic computer science), focusing on enhancing my skills in programming and engineering.<br>I'm eager to learn new things.<br>
-  Mainly code in C++ & Java. Starting journey in cybersecurity. Aside from that interested in concurrent Go, ML, AWS.<br>Open-source vibes, sneaking into GameDev.
+    Mainly C++, python(blee)<br>
+    Deep diving into embded ml<br>
+    Sneaking into pentesting
 </p>
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%">
 
@@ -22,17 +23,10 @@
 
 <div style="flex: 1;">
 <ul>
-  <li>🎮 <a href="https://github.com/unseen2004/EndlessRunner"><strong>2D Game Raylib</strong></a></li>
-  <li>🌐 <a href="https://github.com/unseen2004/cocktails-api"><strong>API TS</strong></a></li>
-  <li>⚙️ <a href="https://github.com/unseen2004/AlgoLib"><strong>C++ Algorithms Lib</strong></a></li>
-  <li>🔀 <a href="https://github.com/unseen2004/RandomThings"><strong>Random Stuff</strong></a></li>
-  <li>♟️ <a href="https://github.com/unseen2004/chineseCheckers"><strong>Java Game</strong></a></li>
-  <li>🇯🇵 <a href="https://github.com/unseen2004/Python_jp"><strong>Japanese Python</strong></a></li>
-  <li>📱 <a href="https://github.com/unseen2004/GlucoApp"><strong>Simple Mobile App</strong></a></li>
-
-  
-  <li>📱 <a href="https://github.com/unseen2004/ML"><strong>Machine Learning</strong></a></li>
-  <li>📱 <a href="https://github.com/unseen2004/CyberSecurity"><strong>Cyber Security</strong></a></li>
+  <li><a href="https://github.com/unseen2004/endlessRunner"><strong>2D Game Raylib</strong></a></li>
+  <li><a href="https://github.com/unseen2004/lib_algo"><strong>C++ Algorithms Lib</strong></a></li>
+  <li><a href="https://github.com/unseen2004/chineseCheckers"><strong>Java Game</strong></a></li>
+  <li><a href="https://github.com/unseen2004/dirs/Python_jp"><strong>Japanese Python</strong></a></li>
 </ul>
 </div>
 
@@ -64,8 +58,7 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
 
 
 
