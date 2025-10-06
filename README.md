@@ -2,12 +2,6 @@
 <kbd>[<img title="日本語" alt="日本語" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/jp.svg" width="22">](docs/translations/README.ja.md)</kbd>
 <kbd>[<img title="Polski" alt="Polski" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/pl.svg" width="22">](docs/translations/README.pl.md)</kbd>
 
-<img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" />
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F72FFF&center=true&vCenter=true&repeat=false&width=800&height=60&lines=未確認生命体+UNSEEN;サイバー+浪人+%2F+Cyber+Ronin;低レベル+魔術師+%2B+埋め込みAI;C%2B%2B+%26+機械学習+実験者" alt="Neon Intro" />
-</p>
-
 <h1 align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?weight=700&size=42&duration=4000&pause=1000&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=860&height=120&lines=%E2%9C%A8+Unseen+2004;%E3%83%8F%E3%83%AD%E3%83%BC+World+%F0%9F%8C%8D;printf(%5C%22こんにちは+%5C%22)" />
