@@ -13,32 +13,18 @@
 
 > 「コードは詩。最適化は俳句。」 — Unseen
 
-<div align="center">
-
-| ⚡ Focus | 🧪 Current Experiment | 🛰 Drift Zone |
-|---------|-----------------------|--------------|
-| C/C++ low-level tinkering | Embedded ML inference speed tweaks | Pentest recon tooling |
-
-</div>
 
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" />
 
-### 🌸 Quick Vibe
-- Mainly C++, Python (sometimes cursed)  
-- Deep diving into embedded ML & quantization  
-- Occasionally sneaking into pentesting  
-- Writing tiny utilities that probably nobody asked for, but future me will thank me
+### Focus
+- C++, Rust, Python
+- fine-tunning big models
+- learning web3 (rust), pentesting
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Y1MWVrbGVrMXZrYjBtYnVpZjF5M3A0dDQzeXFnY3V4ZWNhMm8wcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QiFoJRaLiMGYg/giphy.gif" alt="Cyber Ritual Animation" width="250" />
 </p>
 
-### 🈺 Tech Sushi Menu (技術すし盛り合わせ)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,cmake,linux,git,clang,java,raspberrypi,arduino,neovim" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=regex,docker,bash,github,md,vscode,qt,opencv,fastapi" />
-</p>
 
 ### 📦 Project Vault (主要プロジェクト)
 > Curated set of repos — mix of systems, ML, Rust, and experiments.
@@ -54,10 +40,11 @@
 - <a href="https://github.com/unseen2004/dir_ml"><b>dir_ml</b></a> – General ML experiments (models, notes)
 - <a href="https://github.com/unseen2004/lib_algo"><b>lib_algo</b></a> – Hand‑rolled algorithms / STL‑adjacent
 - <a href="https://github.com/unseen2004/chineseCheckers"><b>chineseCheckers</b></a> – Java board game AI + heuristics
+- <a href="https://github.com/unseen2004/ancient_board_game"><b>ancient_board_game</b></a> – Rust impl of board game
 
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
 
-### 🔮 Status & Relics
+### Random Stuff
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unseen2004&color=ff00ff&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Time%20in%20Code-夜型勢-purple?style=flat-square" />
