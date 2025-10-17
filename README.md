@@ -72,28 +72,7 @@
 </p>
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
 
-### 🌀 Terminal Aura
-```
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃  未確認 — low level rituals         ┃
-┃  push -> build -> strip -> objdump  ┃
-┃  cache lines are silent witnesses   ┃
-┃  branch predictor is my shikigami   ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
 
-### ✨ Micro Achievements (小さな勝利)
-- Wrote a mini allocator & didn’t segfault (immediately)  
-- Made an ESP32 stream sensor data into a tiny model  
-- Accidentally made a RE tool while debugging  
-- Wrote notes in Japanese to future-proof my study flow  
-
-### 🧗 Ongoing Quests (進行中)
-| Quest | Status | Flavor |
-|-------|--------|--------|
-| Embedded ML benchmarking | 🟣 prototyping | INT8 vs FP16 trade-offs |
-| Tiny pentest toolkit | 🟡 sketching | Recon + automation |
-| Japanese tech vocab deck | 🟢 daily | 漢字 + synonyms |
 
 ### 🤝 Social Dock (波間の信号)
 <div align="center">
@@ -103,12 +82,8 @@
 <a href="https://www.tiktok.com/@unseen00_"><img src="https://img.shields.io/badge/TikTok-夜-black?style=for-the-badge&logo=tiktok&logoColor=white&color=000" /></a>
 </div>
 
-### 🧪 Random Infusion
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Joke" />
-</p>
 
-### 🎞 Local Motion (ローカルGIF)
+### 🎞 
 <p align="center">
   <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/gif_1.gif" alt="Loop Animation 1" width="320" />
   <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/gif_2.gif" alt="Loop Animation 2" width="320" />
@@ -116,14 +91,12 @@
 
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
 
-### 🌐 Languages (ことば)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+### 🌐 Languages (ことば) (best->mid)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 
 ---
