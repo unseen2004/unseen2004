@@ -23,7 +23,7 @@
       <h3>🧠 Learning Protocols (学習中)</h3>
       <ul>
         <li><code>[PY]</code> <b>LLM</b> <small>// 大規模言語モデル</small></li>
-        <li><code>[SEC]</code> <b>Pentesting</b> <small>// ペネトレーションテスト</small></li>
+        <!--         <li><code>[SEC]</code> <b>Pentesting</b> <small>// ペネトレーションテスト</small></li>-->
         <li><code>[GO]</code> <b>Distributed systems</b> <small>// 分散システム</small></li>
         <li><code>[RUST]</code> <b>Web3</b> <small>// ウェブスリー</small></li>
         <li><code>[Q#]</code> <b>Quantum Programming</b> <small>// 量子プログラミング</small></li>
