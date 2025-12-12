@@ -43,12 +43,9 @@
 
 | ID | Repository | Description (詳細) | Tech |
 | :-- | :-- | :-- | :-- |
-| **01** | <a href="https://github.com/unseen2004/mono-clone"><b>mono-clone</b></a><br><sub>モノ・クローン</sub> | Use it to clone from monorepos like "studies" | `Shell` |
-| **02** | <a href="https://github.com/unseen2004/studies"><b>studies</b></a><br><sub>スタディーズ</sub> | Projects related to algorithmic CS studies | `Polyglot` |
-| **03** | <a href="https://github.com/unseen2004/learning"><b>learning</b></a><br><sub>ラーニング</sub> | Mix of small/medium projects | `Mixed` |
-| **04** | <a href="https://github.com/unseen2004/endlessRunner"><b>endlessRunner</b></a><br><sub>エンドレス・ランナー</sub> | C++ 2D Raylib game engine test | `C++` `Raylib` |
-| **05** | <a href="https://github.com/unseen2004/chineseCheckers"><b>chineseCheckers</b></a><br><sub>チャイニーズ・チェッカー</sub> | Java board game implementation | `Java` |
-| **06** | <a href="https://github.com/unseen2004/repos-cli"><b>repos-cli</b></a><br><sub>ズ・チェッカー</sub> | auto readme update | `Rust` |
+| **00** | <a href="https://github.com/unseen2004/learning"><b>learning</b></a><br><sub>ラーニング</sub> | Mix of small/medium projects | `Mixed` |
+| **01** | <a href="https://github.com/unseen2004/endlessRunner"><b>endlessRunner</b></a><br><sub>エンドレス・ランナー</sub> | C++ 2D Raylib game engine test | `C++` `Raylib` |
+| **10** | <a href="https://github.com/unseen2004/chineseCheckers"><b>chineseCheckers</b></a><br><sub>チャイニーズ・チェッカー</sub> | Java board game implementation | `Java` |
 
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
 
