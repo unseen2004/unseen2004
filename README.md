@@ -37,13 +37,13 @@
 
 
 ### Languages & Domains
-Rust · C++ · Python · Java | Web3 Infrastructure · High-Frequency Trading (HFT)
+Rust · C++ · Python · Java · Go | Web3
 
 ### Research
-Embedded AI Systems · Parallel & High-Performance Algorithms · Quantum Computing
+Parallel Algorithms · Quantum Computing
 
 ### Technical Interests
-Compile-Time Metaprogramming · Branchless Programming · Low-Level Optimizations
+Compile-Time Metaprogramming · Branchless Programming · Low-Level Optimizations · Embedded AI · HFT
 
 
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
