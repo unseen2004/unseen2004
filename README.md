@@ -19,7 +19,6 @@
         <li>定量的取引</small></li>
       </ul>
       <br>
-       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&color=FF2BF5&width=400&lines=Memory+alignment+chants;Cache+coherency+invocations;Branch+prediction+omens;Quantization+rituals" alt="Tech Incantations" />
     </td>
   </tr>
 </table>
