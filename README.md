@@ -37,13 +37,13 @@
 
 
 ### Languages & Domains
-Rust · C++ · Python · Java · Go | Web3
+Rust · Python · Go | Web3
 
 ### Research
 Parallel Algorithms · Quantum Computing
 
 ### Technical Interests
-Compile-Time Metaprogramming · Branchless Programming · Low-Level Optimizations · Embedded AI · HFT
+Compile-Time Metaprogramming · Low-Level Optimizations · HFT
 
 
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
