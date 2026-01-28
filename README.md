@@ -30,20 +30,20 @@
 | ID | Repository | Description | Tech |
 | :-- | :-- | :-- | :-- |
 | **00** | <a href="https://github.com/unseen2004/learning"><b>learning</b></a><br> | Mix of small/medium projects | `Mixed` |
-| **01** | <a href="https://github.com/unseen2004/endlessRunner"><b>endlessRunner</b></a><br> | C++ 2D Raylib game engine test | `C++` `Raylib` |
+| **01** | <a href="https://github.com/unseen2004/endlessRunner"><b>endlessRunner</b></a><br> | C++ 2D Raylib game | `C++` `Raylib` |
 | **02** | <a href="https://github.com/unseen2004/chineseCheckers"><b>chineseCheckers</b></a><br> | Java board game implementation | `Java` |
 
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
 
 
-### Languages & Domains
-Rust · Python · Go | Web3
+### Fav Languages 
+Rust · Go
 
 ### Research
 Parallel Algorithms · Quantum Computing
 
 ### Technical Interests
-Compile-Time Metaprogramming · Low-Level Optimizations · HFT
+Compile-Time Metaprogramming · Web3 · Low-Level Optimizations · HFT
 
 
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
