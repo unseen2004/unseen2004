@@ -29,9 +29,15 @@
 
 | ID | Repository | Description | Tech |
 | :-- | :-- | :-- | :-- |
-| **00** | <a href="https://github.com/unseen2004/learning"><b>learning</b></a><br> | Mix of small/medium projects | `Mixed` |
-| **01** | <a href="https://github.com/unseen2004/endlessRunner"><b>endlessRunner</b></a><br> | C++ 2D Raylib game | `C++` `Raylib` |
-| **02** | <a href="https://github.com/unseen2004/chineseCheckers"><b>chineseCheckers</b></a><br> | Java board game implementation | `Java` |
+| **000** | <a href="https://github.com/unseen2004/stereorepo"><b>stereorepo</b></a><br> | Mix of small/medium projects | `Mixed` |
+| **001** | <a href="https://github.com/unseen2004/cli_game"><b>cli game</b></a><br> | rust, tokio, ratatui | `Rust` |
+| **010** | <a href="https://github.com/unseen2004/compiler"><b>compiler</b></a><br> | C, procedular lan -> vm commands | `C` |
+| **011** | <a href="https://github.com/unseen2004/endlessRunner"><b>endlessRunner</b></a><br> | C++ 2D Raylib game | `C++` `Raylib` |
+| **100** | <a href="https://github.com/unseen2004/flappyBird"><b>flappyBird</b></a><br> | Classic game w shaders and graphic pipeline | `Java` `SDL2` |
+| **101** | <a href="https://github.com/unseen2004/chineseCheckers"><b>chineseCheckers</b></a><br> | Java board game implementation | `Java` |
+| **110** | <a href="https://github.com/unseen2004/algolib"><b>algolib</b></a><br> | seq and parallel algos | `Rust`  `Go` |
+
+
 
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
 
