@@ -33,7 +33,7 @@
 | **001** | <a href="https://github.com/unseen2004/cli_game"><b>cli game</b></a><br> | rust, tokio, ratatui | `Rust` |
 | **010** | <a href="https://github.com/unseen2004/compiler"><b>compiler</b></a><br> | C, procedular lan -> vm commands | `C` |
 | **011** | <a href="https://github.com/unseen2004/endlessRunner"><b>endlessRunner</b></a><br> | C++ 2D Raylib game | `C++` `Raylib` |
-| **100** | <a href="https://github.com/unseen2004/stereorepo/tree/main/flappyBird"><b>flappyBird</b></a><br> | Classic game w shaders and graphic pipeline | `Java` `SDL2` |
+| **100** | <a href="https://github.com/unseen2004/stereorepo/tree/main/flappyBird"><b>stereorepo/flappyBird</b></a><br> | Classic game w shaders and graphic pipeline | `Java` `SDL2` |
 | **101** | <a href="https://github.com/unseen2004/chineseCheckers"><b>chineseCheckers</b></a><br> | Java board game implementation | `Java` |
 | **110** | <a href="https://github.com/unseen2004/parallel_algo_lib"><b>parallel_algo_lib</b></a><br> | parallel algos | `Rust`  `Go` |
 
