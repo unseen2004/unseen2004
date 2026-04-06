@@ -32,24 +32,40 @@
 | **000** | <a href="https://github.com/unseen2004/stereorepo"><b>stereorepo</b></a><br> | Mix of small/medium projects | `Mixed` |
 | **001** | <a href="https://github.com/unseen2004/cli_game"><b>cli game</b></a><br> | rust, tokio, ratatui | `Rust` |
 | **010** | <a href="https://github.com/unseen2004/compiler"><b>compiler</b></a><br> | C, procedular lan -> vm commands | `C` |
-| **011** | <a href="https://github.com/unseen2004/endlessRunner"><b>endlessRunner</b></a><br> | C++ 2D Raylib game | `C++` `Raylib` |
-| **100** | <a href="https://github.com/unseen2004/stereorepo/tree/main/flappyBird"><b>flappyBird</b></a><br> | Classic game w shaders and graphic pipeline | `Java` `SDL2` |
-| **101** | <a href="https://github.com/unseen2004/chineseCheckers"><b>chineseCheckers</b></a><br> | Java board game implementation | `Java` |
-| **110** | <a href="https://github.com/unseen2004/stereorepo/parallel_dsa"><b>parallel_dsa</b></a><br> | parallel dsa | `Rust`  `Go` |
-
-
+| **011** | <a href="https://github.com/unseen2004/p2p_chat"><b>p2p-chat</b></a><br> | p2p chat (used on my website) | `Rust` |
+| **100** | <a href="https://github.com/unseen2004/parallel_dsa"><b>parallel_dsa</b></a><br> | dsa lib | `Rust`  `Go` |
+| **101** | <a href="https://github.com/unseen2004/p2p-mobile-notes-chat"><b>p2p-mobile-notes-chat</b></a><br> | p2p chat mobile | `Rust`  `Dart` |
+| **110** | <a href="https://github.com/unseen2004/endlessRunner"><b>endlessRunner</b></a><br> | C++ 2D Raylib game | `C++` `Raylib` |
+| **111** | <a href="https://github.com/unseen2004/stereorepo/tree/main/flappyBird"><b>flappyBird</b></a><br> | Classic game w shaders and graphic pipeline | `Java` `SDL2` |
+| **1000** | <a href="https://github.com/unseen2004/chineseCheckers"><b>chineseCheckers</b></a><br> | Java board game implementation | `Java` |
+| **1001** | <a href="https://github.com/unseen2004/go-assistant-mvp"><b>go-assistant-mvp</a></b></a><br> | ai assistant | `Go` |
 
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
 
+### Open Source contribution
+<a href="https://github.com/nokia/restful"><b>restful</b></a>,
+<a href="https://github.com/solana-foundation/anchor"><b>anchor</b></a>, 
+<a href="https://github.com/google/googletest"><b>googletest</b></a>, 
+<a href="https://github.com/google/zerocopy"><b>zerocopy</b></a>, 
+<a href="https://github.com/google-gemini/gemini-cli"><b>gemini-cli</b></a>, 
+<a href="https://github.com/ethereum/go-ethereum"><b>go-etherum</b></a>, 
+<a href="https://github.com/foundry-rs/foundry"><b>foundry</b></a> 
+
+<img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
+
+### Books recommendations
+<b>rust in action</b></a>, <b>idiomatic rust book</b></a>, <b>Learning Go: An Idiomatic Approach to Real-World Go Programming</b></a>, <b>concurrency in go katherine cox buday</b></a>
+
+<img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
 
 ### Fav Languages 
 Rust · Go
 
 ### Research
-Parallel Algorithms · Quantum Computing
+Quantum Computing
 
 ### Technical Interests
-Compile-Time Metaprogramming · Web3 · Low-Level Optimizations · HFT
+Compile-Time Metaprogramming · Web3 · Low-Level Optimizations · HFT · Parallel Algorithms
 
 
 <img src="https://github.com/unseen2004/unseen2004/blob/main/assets/line-neon.gif" width="100%" alt="Neon Divider" />
